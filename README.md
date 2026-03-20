@@ -19,12 +19,12 @@ Building my path into DevOps by working hands-on with real systems and tools, fo
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
 </p>
-- Knowledge of Linux and networking fundamentals
-- AWS cloud services
-- Docker containerization
-- CI/CD pipelines using Jenkins
-- Understanding of Kubernetes
 
+- Knowledge of Linux and networking fundamentals  
+- AWS cloud services  
+- Docker containerization  
+- CI/CD pipelines using Jenkins  
+- Understanding of Kubernetes
 ---
 
 ## <img src="https://img.icons8.com/fluency-systems-regular/20/folder-invoices.png"/> Projects
@@ -46,4 +46,4 @@ Building my path into DevOps by working hands-on with real systems and tools, fo
   
 ---
 
- <img src="https://img.icons8.com/fluency-systems-regular/20/prize.png"/>> *Build. Deploy. Automate.*
+ <img src="https://img.icons8.com/fluency-systems-regular/20/prize.png"/> *Build. Deploy. Automate.*
