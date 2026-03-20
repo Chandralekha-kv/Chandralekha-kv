@@ -1,6 +1,7 @@
 # Chandralekha KV
 
 **<img src="https://img.icons8.com/fluency-systems-regular/20/user.png"/> About Me**
+
 I’m a BCA graduate with a strong interest in DevOps and cloud technologies.
 Building my path into DevOps by working hands-on with real systems and tools, focused on CI/CD, cloud, and automation while continuously improving through practical experience.
 
@@ -42,12 +43,7 @@ Building my path into DevOps by working hands-on with real systems and tools, fo
 **Kubernetes Deployment**
 - Managed application deployment in Kubernetes using pods and services.
 - Handled service exposure, basic networking setup, and troubleshooting tasks.
-
+  
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Chandralekha-kv&show_icons=true)
-
----
-
- ## <img src="https://img.icons8.com/fluency-systems-regular/20/idea.png"/> *Build. Deploy. Automate.*
+ <img src="https://img.icons8.com/fluency-systems-regular/20/prize.png"/>> *Build. Deploy. Automate.*
